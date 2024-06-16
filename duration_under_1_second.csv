@@ -1,3 +1,4 @@
 "Story","Title","Result","Date","Stability","Duration (s)"
-"When checking in to the pet hotel","Petra books her pet cat into the hotel","SUCCESS","2024-06-16T02:49:17.860080741Z[Etc/UTC]","0.0","0.81"
-"When checking in to the pet hotel","Petra checks her cat out of the hotel","SUCCESS","2024-06-16T02:49:18.778911951Z[Etc/UTC]","0.0","0.05"
+"When checking in to the pet hotel","Petra books her pet cat into the hotel","SUCCESS","2024-06-16T11:06:27.068530518Z[Etc/UTC]","0.0","0.61"
+"When checking in to the pet hotel","Petra checks her cat out of the hotel","SUCCESS","2024-06-16T11:06:27.756025836Z[Etc/UTC]","0.0","0.04"
+"When checking in to the pet hotel","Petra books her pet cat into the hotel that is already full","SUCCESS","2024-06-16T11:06:27.803186572Z[Etc/UTC]","0.0","0.05"
