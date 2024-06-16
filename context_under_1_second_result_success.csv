@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"When checking in to the pet hotel","Petra books her pet cat into the hotel","SUCCESS","2022-07-31T09:04:57.554670534Z[Etc/UTC]","0.0","0.86"
+"When checking in to the pet hotel","Petra checks her cat out of the hotel","SUCCESS","2022-07-31T09:04:58.479478361Z[Etc/UTC]","0.0","0.02"
